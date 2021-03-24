@@ -61,4 +61,4 @@ yarn start
 Committer/Contributor
 =====================
 
-[**Amlan Chakrabarty**](mailto:amlan.chakrabarty15@gmail.com)
+[**Amlan Chakrabarty**]<Amlan.Chakrabarty15@gmail.com>(mailto:amlan.chakrabarty15@gmail.com)
